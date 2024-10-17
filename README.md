@@ -19,6 +19,7 @@ My name is **_Fabio Castagnola Valencia_**
 [![MongoDB](https://img.shields.io/badge/MongoDB-3d8b4d?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)]()
 [![Firebase](https://img.shields.io/badge/firebase-f2c144?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000)]()
 [![MySQL](https://img.shields.io/badge/MySQL-1f5d85?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)]()
+[![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-3394e0?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)]()
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-2f67da?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)]()
 [![AWS](https://img.shields.io/badge/Aws-f2923d?style=for-the-badge&logo=amazon&logoColor=white&labelColor=000000)]()
